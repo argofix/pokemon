@@ -1,0 +1,26 @@
+{
+    "id": "F1BACF04",
+    "path": "~/Curso_Shiny/Trabalho_final/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "905981856",
+    "contents": "",
+    "dirty": false,
+    "created": 1686395608424.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,36",
+        "scrollLine": "46"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686741346,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686741346767,
+    "read_only": false,
+    "read_only_alternatives": []
+}
